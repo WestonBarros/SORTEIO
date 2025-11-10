@@ -3,7 +3,7 @@
 Eu me chamo Weston Barros , sou um Programador Front End, com conhecimentos adquiridos no DavClub criei esse projeto , um site de sorteio para desktop e mobile. :
 <br/>
 <br/>
-<a href="https://westonbarros.github.io/SORTEIO/" >
+<a href="https://westonbarros.github.io/SORTEIO/"/>
 <br/>
 <br/>
 <br/>
