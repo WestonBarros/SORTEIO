@@ -14,4 +14,4 @@ Eu me chamo Weston Barros , sou um Programador Front End, com conhecimentos adqu
 <br/>
 <br/>
 <br/>
-<img src="" alt="logo-dados"/>
+<img src="https://github.com/WestonBarros/PROJETO-SORTEIO/blob/main/Captura%20de%20tela%202025-11-10%20114225.png?raw=true" alt="logo-dados"/>
