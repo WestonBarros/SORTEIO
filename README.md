@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu me chamo Weston Barros , sou um Programador Front End, criei esse projeto com conhecimentos adquiridos no DavClub :
+Eu me chamo Weston Barros , sou um Programador Front End, com conhecimentos adquiridos no DavClub criei esse projeto , um site de sorteio para desktop e mobile. :
 <br/>
 <br/>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-Html"/>
+<img src="https://github.com/WestonBarros/PROJETO-SORTEIO/blob/main/sort%201.png?raw=true" alt="logo-dados"/>
