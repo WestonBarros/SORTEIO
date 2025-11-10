@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background: #000;
+
+
+
+    img{
+        height: auto;
+        display: block;
+        margin: 100px auto;
+
+    }
+
+    h1{
+        color: #FFFFFF;
+        text-align: center;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        
+    }
+
+    input{
+        width: 342px;
+        height: 80px;
+        border-radius: 14px; 
+        border: none;
+        background-color: #575656;
+        display: inline-block;
+        font-size: 40px;
+        padding: 20px;
+        
+       
+    }
+
+    button{
+        width: 342px;
+        height: 72px;
+        border-radius: 10px;
+        margin:60px auto;
+        display: block;
+        text-align: center;
+        background-color: #AEC346;
+        border: none;
+        color: #FFFFFF;
+        font-size: 40px;
+        font-weight: 700px;
+        cursor: pointer;
+    }
+    
+    .entrada{
+        margin-top: 20px;
+       margin-left: 37%; 
+       color: #FFFFFF ; 
+      
+    }
+
+    .saida{
+        margin-top: 20px;
+       margin-left: 50px; 
+        }
+
+
+    @media screen and (max-width:900px) {
+        img {
+            margin: 100px auto;
+            height: 250px;
+        }
+
+        h1{
+            font-size: 30px;
+        }
+
+
+        input{
+            width: 100px;
+        }
+
+        .entrada{
+            margin-left: 20%;
+            color: #FFFFFF;
+        }
+        
+        .saida{
+            color: #FFFFFF;
+        }
+        
+    }
+   
+    
+    }    
+
+
+
+
+
+
+
